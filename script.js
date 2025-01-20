@@ -1,4 +1,3 @@
-
 function division(a, b) {
   if (b != 0) {
     return a / b;
@@ -10,3 +9,12 @@ function division(a, b) {
 console.log("Hello");
 console.log("Hello");
 console.log("Hello");
+
+function multiply (a,b){
+return a*b;
+
+function Substraction(a,d){
+return a-d;
+
+}
+
