@@ -1,3 +1,14 @@
+function division(a, b) {
+  if (b != 0) {
+    return a / b;
+  } else {
+    return 0;
+  }
+}
+
+console.log("Hello");
+console.log("Hello");
+console.log("Hello");
 
 function multiply (a,b){
 return a*b;
@@ -6,3 +17,4 @@ function Substraction(a,d){
 return a-d;
 
 }
+
